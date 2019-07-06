@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         int one = 1000;
 
+        int two = 2000;
+
 
     }
 }
