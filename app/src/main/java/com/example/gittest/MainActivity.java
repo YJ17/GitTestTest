@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
         int four = 4000;
 
 
+        int seven = 7000;
+
     }
 }
